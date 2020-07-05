@@ -6,6 +6,8 @@ class Main{
 
   //hace una suma de dos numeros enteros
   public static int hacerSuma(int n1, int n2){
+    int n22=21;
+    int xd = 123;
     int variable = 123;
     System.out.println("la suma sera retornada");
     Double PI = 3.141516;

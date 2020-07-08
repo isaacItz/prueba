@@ -16,10 +16,6 @@ Class Main{
     Double PI = 3.141516;
     //jjaja pues bien y tu
     return n1 * n2;
-    //hasta la bista beibi
-    //bueno no adios
-    //antes que nadabuenas tardes
-    //jaaja
   }
 
 }

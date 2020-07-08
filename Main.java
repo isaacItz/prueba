@@ -1,4 +1,3 @@
-lkfjsl
 Class Main{
 
   public static void main(String... args){
@@ -10,10 +9,8 @@ Class Main{
   }
 
   //hace una suma de dos numeros enteros
-  jdfjsaj
   public static int hacerSuma(int n1, int n2){
     int n22=21;
-    jejej
     int xd = 123;
     int variable = 123;
     System.out.println("la suma sera retornada");

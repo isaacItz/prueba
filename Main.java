@@ -8,8 +8,6 @@ Class Main{
   public static makeSound(){
     System.out.println("roooar");
   }
-
-  //hace una suma de dos numeros enteros
   public static int hacerSuma(int n1, int n2){
     int n22=21;
     int xd = 123;
